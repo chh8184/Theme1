@@ -43,7 +43,7 @@
       "REDESIGN_ACTIVITY_CARD_BORDER": ["#a5b31d"],
       "BG_MOD_FAINT": ["#94941e"],
       "BG_MOD_SUBTLE": ["#94941e"],
-      "BG_MOD_STRONG": ["#94941e"],
+      "BG_MOD_STRONG": ["#4b520e"],
       "CARD_PRIMARY_BG": ["#070940"],
       "CARD_PRIMARY_PRESSED_BG": ["#4c4e1a"],
       "CARD_SECONDARY_BG": ["#4c4e1a"],
