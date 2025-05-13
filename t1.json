@@ -97,10 +97,10 @@
       }
     },
     "background": {
-      "blur": 0.0,
+      "blur": 2.5,
       "url": "https://raw.githubusercontent.com/chh8184/Theme1/main/bi/20250512_000632.jpg",
       "alpha": 5.0,
-      "shadow": 0.0
+      "shadow": 0.5
     },
     "spec": 2
   }
