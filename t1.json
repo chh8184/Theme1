@@ -97,9 +97,9 @@
       }
     },
     "background": {
-      "blur": 0.7,
+      "blur": 0.9,
       "url": "https://raw.githubusercontent.com/chh8184/Theme1/main/bi/20250512_000632.jpg",
-      "alpha": 0.5
+      "alpha": 0.7
     },
     "spec": 2
   }
