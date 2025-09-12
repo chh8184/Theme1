@@ -24,8 +24,8 @@
       "BACKGROUND_MOBILE_PRIMARY": ["#080618"],
       "BACKGROUND_MOBILE_SECONDARY": ["#0b091b"],
       "BACKGROUND_NESTED_FLOATING": ["#0b091b"],
-      "BACKGROUND_MESSAGE_HOVER": ["c5c52a"],
-      "BACKGROUND_MODIFIER_HOVER": ["c5c52a"],
+      "BACKGROUND_MESSAGE_HOVER": ["c5c52a6a"],
+      "BACKGROUND_MODIFIER_HOVER": ["c5c52a6a"],
       "BACKGROUND_MODIFIER_SELECTED": ["#c5c52a"],
       "BACKGROUND_MODIFIER_ACCENT": ["#b3b314"],
       "INTERACTIVE_NORMAL": ["#F4F7B2"],
@@ -81,7 +81,7 @@
       "YELLOW_300": "#94941e",
       "WHITE_500": "#FDFFFE",
       "BLACK_500": "#0a071d",
-      "RED_400": "#a1a921"
+      "RED_400": "#A92821"
     },
     "plus": {
       "version": "0",
