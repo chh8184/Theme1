@@ -41,7 +41,7 @@
       "ACTIVITY_CARD_BACKGROUND": ["#00FF00"],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#4c4e1a"],
       "REDESIGN_ACTIVITY_CARD_BORDER": ["#a5b31d"],
-      "BG_MOD_FAINT": ["#94941e"],
+      "BG_MOD_FAINT": ["#4EBAA6"],
       "BG_MOD_SUBTLE": ["#94941e"],
       "BG_MOD_STRONG": ["#94941e"],
       "CARD_PRIMARY_BG": ["#070940"],
@@ -53,7 +53,7 @@
       "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#0c061b"],
       "REDESIGN_BUTTON_SECONDARY_BORDER": ["#94941e"],
       "BORDER_FAINT": ["#a5b31d"],
-      "BORDER_STRONG": ["#94941e"],
+      "BORDER_STRONG": ["#4EBAA6"],
       "BORDER_SUBTLE": ["#a5b31d"]
     },
     "rawColors": {
