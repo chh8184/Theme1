@@ -37,7 +37,7 @@
       "CHANNELS_DEFAULT": ["#"],
       "CHAT_BACKGROUND": ["#"],
       "SPOILER_HIDDEN_BACKGROUND": ["#"],
-      "KEYBOARD": ["#020215"],
+      "KEYBOARD": ["#"],
       "ACTIVITY_CARD_BACKGROUND": ["#"],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#"],
       "REDESIGN_ACTIVITY_CARD_BORDER": ["#"],
