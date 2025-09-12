@@ -15,7 +15,7 @@
       "TEXT_DANGER": ["#a1a921"],
       "TEXT_LINK": ["#fff945"],
       "BG_BACKDROP": ["#070624"],
-      "BACKGROUND_PRIMARY": ["#070624"],
+      "BACKGROUND_PRIMARY": ["#"],
       "BACKGROUND_SECONDARY": ["#070624"],
       "BACKGROUND_SECONDARY_ALT": ["#070624"],
       "BACKGROUND_TERTIARY": ["#060417"],
