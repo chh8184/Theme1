@@ -53,7 +53,7 @@
       "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#0c061b"],
       "REDESIGN_BUTTON_SECONDARY_BORDER": ["#CC7E2B"],
       "BORDER_FAINT": ["#E0ED5C"],
-      "BORDER_STRONG": ["#F70000"],
+      "BORDER_STRONG": ["#FCF67C"],
       "BORDER_SUBTLE": ["#a5b31d"]
     },
     "rawColors": {
