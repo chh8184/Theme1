@@ -9,7 +9,7 @@
       }
     ],
     "semanticColors": {
-      "ANDROID_RIPPLE": ["#"],
+      "ANDROID_RIPPLE": ["#FF45F9"],
       "TEXT_NORMAL": ["#e0e0db"],
       "TEXT_MUTED": ["#8294A8"],
       "TEXT_DANGER": ["#a1a921"],
