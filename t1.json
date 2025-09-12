@@ -79,9 +79,9 @@
       "BRAND_560": "#",
       "GREEN_360": "#",
       "YELLOW_300": "#",
-      "WHITE_500": "#FF5252",
-      "BLACK_500": "#FFC252",
-      "RED_400": "#CBFF52"
+      "WHITE_500": "#",
+      "BLACK_500": "#",
+      "RED_400": "#"
     },
     "plus": {
       "version": "0",
