@@ -44,7 +44,7 @@
       "BG_MOD_FAINT": ["#"],
       "BG_MOD_SUBTLE": ["#"],
       "BG_MOD_STRONG": ["#7474745a"],
-      "CARD_PRIMARY_BG": ["#140902"],
+      "CARD_PRIMARY_BG": ["#0f0e00"],
       "CARD_PRIMARY_PRESSED_BG": ["#"],
       "CARD_SECONDARY_BG": ["#140902"],
       "CARD_SECONDARY_PRESSED_BG": ["#"],
