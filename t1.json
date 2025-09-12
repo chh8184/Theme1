@@ -14,7 +14,7 @@
       "TEXT_MUTED": ["#8294A8"],
       "TEXT_DANGER": ["#a1a921"],
       "TEXT_LINK": ["#fff945"],
-      "BG_BACKDROP": ["#00000000"],
+      "BG_BACKDROP": ["#57575757"],
       "BACKGROUND_PRIMARY": ["#00000000"],
       "BACKGROUND_SECONDARY": ["#0A0501"],
       "BACKGROUND_SECONDARY_ALT": ["#0F0902"],
